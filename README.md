@@ -1,6 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Lucas, 22 yo </h1>
+  <h1 align="center">Hi 👋, I'm Lucas, 22 yo <br>
+  💬 Ask me about anything 
+  <a href="https://github.com/Lucasdeleplace/Lucasdeleplace/issues"> 
+  here
+  </a>
+  </h1>
   <h3 align="center">A passionate developer 💻</h3>
+</div>
 
   <pre>
   🌱 I've been learning about development since I was very young. 
@@ -23,7 +29,5 @@
   <p>
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lucasdeleplace&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdeleplace&&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    
-  💬  Ask me about anything [here](https://github.com/Lucasdeleplace/Lucasdeleplace/issues)
   </p>
 </div>
