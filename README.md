@@ -6,7 +6,6 @@
   </a>
   </h1>
   <h3 align="center">A passionate developer 💻</h3>
-</div>
 
   <pre>
   🌱 I've been learning about development since I was very young. 
