@@ -24,6 +24,9 @@
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe&text=false">  
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60&text=false"/>
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799&text=false">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSharp&svgfill=cd6799&text=false">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sqlite&svgfill=cd6799&text=false">
+    
   </p>
   <p>
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lucasdeleplace&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
