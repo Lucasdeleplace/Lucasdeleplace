@@ -12,6 +12,11 @@
   ...and I'm currently learning with Simplon, since October 2024 until... undefined ;)
   </pre>
 
+contact me
+  <pre>
+  use npx shivii
+  </pre>
+
   <h3 >Languages and Tools used for now :</h3>
   <p>  
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=659b60&text=false"/>   
