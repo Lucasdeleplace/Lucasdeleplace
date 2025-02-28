@@ -12,10 +12,8 @@
   ...and I'm currently learning with Simplon, since October 2024 until... undefined ;)
   </pre>
 
-contact me
-  <pre>
-  use npx shivii
-  </pre>
+  ## contact me 
+  > npx shivii
 
   <h3 >Languages and Tools used for now :</h3>
   <p>  
