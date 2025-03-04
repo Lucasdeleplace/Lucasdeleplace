@@ -38,6 +38,6 @@
   </p>
   <h3 >Code Wars: </h3>
   <p>
-   <img  src="https://www.codewars.com/users/Shivii_-/badges/large">
+     <img src="https://github.r2v.ch/codewars?user=Shivii_-&stroke=%252,3,111">
   </p>
 </div>
