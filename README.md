@@ -8,8 +8,8 @@
   <h3 align="center">A passionate developer 💻</h3>
 
   <pre>
-  🌱 I've been learning about development since I was very young. 
-  ...and I'm currently learning with Simplon, since October 2024 until... undefined ;)
+    🌱 I've been learning about development since I was very young.
+    Recently completed a developer position and currently looking for new opportunities.
   </pre>
 
   <h2>Contact me :</h2> 
