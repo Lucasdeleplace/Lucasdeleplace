@@ -14,6 +14,13 @@
     <a href="https://github.com/Lucasdeleplace/Lucasdeleplace/issues">Ask me anything</a>
   </p>
 
+  <h2>What's next</h2>
+  <p>
+    Open to freelance missions, or a CDD / CDI in France.
+    I want a team that takes code quality seriously and still cares about the product.
+    If you need someone who looks at the user and the business, not only the repo, say hi.
+  </p>
+
   <h2>Contact</h2>
 
   > npx shivii
